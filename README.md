@@ -1,9 +1,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/gugasant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/gugasant" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-santana-41b753230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-santana-41b753230/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://pt.stackoverflow.com/users/299310/guga-santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://pt.stackoverflow.com/users/299310/guga-santana" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/gustavosant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gustavosant/" height="30" width="40" /></a>
+<a href="https://dev.to/gugasant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/gugasant" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gustavo-santana-41b753230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-santana-41b753230/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/299310/guga-santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://pt.stackoverflow.com/users/299310/guga-santana" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gustavosant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gustavosant/" height="30" width="40" /></a>
 <a href="https://discord.gg/gusta#6683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gusta#6683" height="30" width="40" /></a>
 </p>
 
